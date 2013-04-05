@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Adapters</string>
+
+    <string-array name="sports">
+        <item>Archery</item>
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Hunting</item>
+        <item>Kite Surfing</item>
+        <item>Running</item>
+        <item>Sailing</item>
+        <item>Squash</item>
+    </string-array>
+    
+    
+
+
+</resources>
